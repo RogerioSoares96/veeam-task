@@ -1,0 +1,1 @@
+## Sync folders Task done within the scope of the SDET role in the QA Team at Veeam
